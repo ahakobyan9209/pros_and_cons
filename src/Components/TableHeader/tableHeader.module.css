@@ -1,0 +1,21 @@
+.TableHeader {
+	display: flex;
+	justify-content: space-between;
+	flex-basis: 100%;
+	background-color: white;
+}
+
+.TableHeaderPros {
+	border: 1px solid black;
+	flex-basis: 50%;
+	height: 30px;
+	text-align: center;
+	font-size: 20px;
+}
+.TableHeaderCons {
+	border: 1px solid black;
+	flex-basis: 50%;
+	height: 30px;
+	text-align: center;
+	font-size: 20px;
+}

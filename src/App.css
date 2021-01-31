@@ -1,0 +1,11 @@
+.App {
+	display: flex;
+	border: 1px solid;
+	margin: auto;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	width: 600px;
+	background-color: grey;
+}

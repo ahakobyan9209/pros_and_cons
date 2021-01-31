@@ -1,0 +1,19 @@
+.ProsConsTable {
+	display: flex;
+	margin: auto;
+	justify-content: center;
+	height: 400px;
+	width: 600px;
+	background: white;
+}
+
+.ProsColumn {
+	border: 1px solid Black;
+	flex-basis: 50%;
+	overflow: auto;
+}
+.ConsColumn {
+	border: 1px solid Black;
+	flex-basis: 50%;
+	overflow: auto;
+}
